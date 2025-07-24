@@ -2,6 +2,8 @@
 ## 1. Who is the customer, and what insights do we have about them?
 Our customers are individual investors who are considering investing in individual stocks.  
 They read common market reports and analysis reports on stocks.
+Investors who are considering medium to long-term investments and are thinking of holding for at 
+least six months to a year or more.
 
 ## 2. What is the prevailing customer problem or opportunity?
 These reports do not provide information on how much the stock price will rise or when to sell. When selecting stocks to purchase, they want to make their selection based on past price movements and the company's IR, taking into account these expectations.
